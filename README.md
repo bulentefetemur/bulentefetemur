@@ -20,7 +20,7 @@ Live App: https://bulentefetemur.github.io/iCalender/
 
 Source Code: https://github.com/bulentefetemur/iCalender
 
-(...ve yakında bir Swift projesi!)
+(...and soon a Swift project!)
 
 🛠️ Skills & Technologies
 
@@ -66,7 +66,7 @@ Canlı Uygulama: https://bulentefetemur.github.io/iCalender/
 
 Kaynak Kodu: https://github.com/bulentefetemur/iCalender
 
-(...and soon a Swift project!)
+(...ve yakında bir Swift projesi!)
 
 🛠️ Yetkinlikler & Teknolojiler
 
