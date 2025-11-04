@@ -1,7 +1,5 @@
 👋 Hi, I'm Bülent Efe Temür
 
-(Click here for Turkish version 👇)
-
 I'm a senior Electrical Engineering student at Istanbul Technical University (ITU), actively developing my skills in software and data science.
 
 I'm passionate about algorithmic thinking, clean coding practices, and leveraging my background in Python, C, and C++ to build real-world applications. My experience in customer-oriented technical roles has also strengthened my communication and teamwork skills. I am currently seeking opportunities as a Junior Developer or Data Scientist.
@@ -18,9 +16,9 @@ Tech Stack: HTML, Tailwind CSS, JavaScript (ES6+), Gemini API.
 
 Deployment: Deployed via GitHub Pages.
 
-Click here to see the live app
+Live App: https://bulentefetemur.github.io/iCalender/
 
-Click here to see the source code
+Source Code: https://github.com/bulentefetemur/iCalender
 
 (...ve yakında bir Swift projesi!)
 
@@ -36,14 +34,14 @@ Soft Skills: Problem Solving, Strong Communication, Teamwork, Leadership
 
 📫 Get in Touch
 
-View my full CV (PDF)
+CV (PDF): https://bulentefetemur.github.io/cv/myCV.pdf
 
 LinkedIn: https://www.linkedin.com/in/bulentefetemur/
 
 Email: bulentefetemur@gmail.com
 
 
-
+*****
 
 
 👋 Merhaba, ben Bülent Efe Temür
@@ -64,9 +62,9 @@ Teknolojiler: HTML, Tailwind CSS, JavaScript (ES6+), Gemini API.
 
 Yayınlama: GitHub Pages üzerinden yayınlandı.
 
-Uygulamayı canlı görmek için tıklayın
+Canlı Uygulama: https://bulentefetemur.github.io/iCalender/
 
-Kaynak kodunu görmek için tıklayın
+Kaynak Kodu: https://github.com/bulentefetemur/iCalender
 
 (...and soon a Swift project!)
 
@@ -82,7 +80,7 @@ Sosyal Beceriler: Problem Çözme, Güçlü İletişim, Takım Çalışması, Li
 
 📫 İletişim
 
-CV'mi görüntüleyin (PDF)
+CV (PDF): https://bulentefetemur.github.io/cv/myCV.pdf
 
 LinkedIn: https://www.linkedin.com/in/bulentefetemur/
 
