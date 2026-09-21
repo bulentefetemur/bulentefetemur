@@ -1,14 +1,21 @@
 # 👋 Hi, I'm Bülent Efe Temür
 
-I'm a senior **Electrical Engineering student at Istanbul Technical University (ITU)**, actively developing my skills in software development and data science.
+I'm an **Electrical Engineering graduate from Istanbul Technical University (İTÜ)** and a **Junior Energy Trading Specialist** working in Turkish power markets. I bridge the gap between energy market operations, data analytics, and software development.
 
-I'm passionate about **algorithmic thinking, clean coding practices**, and leveraging my background in Python, C, and C++ to build real-world applications. My experience in customer-oriented technical roles has strengthened my communication and teamwork skills. I am currently seeking opportunities as a **Junior Developer** or **Data Scientist**.
+Passionate about **algorithmic thinking, clean coding practices**, and leveraging Python, Django, and IoT systems to build real-world automation tools. I am currently growing at the intersection of energy markets, analytics, and software development.
 
 ---
 
-## 🚀 AI & Web Development Projects (Python/Flask)
+## ⚡ Current Role & Professional Focus
 
-I recently built a series of web applications to master **Backend Development** and **AI API Integration**.
+* **Role:** Junior Energy Trading Specialist at Energy Pool Turkey
+* **Core Expertise:** EPİAŞ day-ahead & intraday market operations (KGÜP / GİP / GÖP), Python/Django internal dashboards for workflow automation, and IoT field equipment integration (Modbus).
+
+---
+
+## 🚀 AI & Web Development Projects (Python/Flask/Django)
+
+I built a series of web applications and automation utilities to master **Full-Stack Development** and **AI API Integration**.
 
 ### 🎬 1. AI Recommendation Chatbot
 A context-aware chatbot capable of maintaining conversation history and simulating a real messaging experience.
@@ -30,7 +37,7 @@ A productivity tool that condenses long articles into 2-3 sentence summaries.
 
 ---
 
-## 📅 Frontend Projects
+## 📅 Frontend & Utility Projects
 
 ### Weekly Calendar (Web App)
 A personal weekly planner and to-do list application I managed from the initial idea to final deployment.
@@ -43,11 +50,12 @@ A personal weekly planner and to-do list application I managed from the initial 
 
 ## 🛠️ Skills & Technologies
 
-* **Languages:** Python, C, C++, JavaScript, SQL
-* **Web & Backend:** Flask, HTML5, CSS3 (Tailwind), RESTful APIs
-* **AI & Data Science:** OpenAI API, Google Gemini API, Pandas, NumPy, Matplotlib, Scikit-learn
-* **Tools:** Git & GitHub, VSCode, AutoCAD, DIALux
-* **Soft Skills:** Problem Solving, Strong Communication, Teamwork, Leadership
+* **Programming:** Python, SQL, C/C++
+* **Energy Markets:** EPİAŞ day-ahead & intraday operations (KGÜP / GİP / GÖP), market reporting
+* **Data & Engineering:** Data analysis, IoT systems, Modbus protocol
+* **Software & Web:** Django, Flask, REST APIs, Git/GitHub, HTML/CSS, JavaScript
+* **Engineering Tools:** AutoCAD, DIALux
+* **Soft Skills:** Crisis Coordination, Problem Solving, Strong Communication, Leadership
 
 ---
 
@@ -62,15 +70,22 @@ A personal weekly planner and to-do list application I managed from the initial 
 
 # 👋 Merhaba, ben Bülent Efe Temür
 
-**İstanbul Teknik Üniversitesi (İTÜ) Elektrik Mühendisliği** son sınıf öğrencisiyim. Aktif olarak yazılım geliştirme ve veri bilimi alanlarında yetkinliklerimi geliştiriyorum.
+**İstanbul Teknik Üniversitesi (İTÜ) Elektrik Mühendisliği** mezunu ve Türkiye elektrik piyasalarında **Junior Enerji Ticareti Uzmanı** olarak görev yapan bir mühendisim. Enerji piyasası operasyonları, veri analitiği ve yazılım geliştirme alanlarını birbirine bağlıyorum.
 
-**Algoritmik düşünme, temiz kod pratikleri** ve Python, C, C++ bilgimi gerçek dünya uygulamaları geliştirmek için kullanma konusunda tutkuluyum. Müşteri odaklı teknik rollerdeki tecrübem, iletişim ve takım çalışması becerilerimi güçlendirdi. Şu anda **Junior Developer** veya **Data Scientist** olarak fırsatlar arıyorum.
+**Algoritmik düşünme, temiz kod pratikleri** ve Python, Django, IoT sistemleri yardımıyla gerçek dünya otomasyon araçları geliştirme konusunda tutkuluyum. Enerji piyasaları, analitik ve yazılımın kesişim kümesinde kariyerimi ilerletiyorum.
 
 ---
 
-## 🚀 Yapay Zeka & Web Geliştirme Projeleri (Python/Flask)
+## ⚡ Mevcut Rol & Profesyonel Odak
 
-Backend geliştirme ve API entegrasyonu yeteneklerimi pekiştirmek için geliştirdiğim proje serisi:
+* **Rol:** Junior Energy Trading Specialist @ Energy Pool Turkey
+* **Temel Uzmanlık:** EPİAŞ gün öncesi ve gün içi piyasa operasyonları (KGÜP / GİP / GÖP), iş akışı otomasyonu için Python/Django dahili kontrol panelleri ve IoT saha ekipman entegrasyonu (Modbus).
+
+---
+
+## 🚀 Yapay Zeka & Web Geliştirme Projeleri (Python/Flask/Django)
+
+Full-stack geliştirme ve API entegrasyonu yetkinliklerimi pekiştirmek için geliştirdiğim proje serisi:
 
 ### 🎬 1. AI Tavsiye Botu (Chatbot)
 Sohbet geçmişini hafızasında tutabilen ve gerçek bir mesajlaşma deneyimi sunan bağlam-duyarlı (context-aware) bir asistan.
@@ -92,7 +107,7 @@ Uzun makaleleri ve metinleri 2-3 cümleye indiren bir üretkenlik aracı.
 
 ---
 
-## 📅 Frontend Projeleri
+## 📅 Frontend & Diğer Projeler
 
 ### Haftalık Planlayıcı (Web Uygulaması)
 Fikirden yayınlama aşamasına kadar tamamını yönettiğim kişisel bir haftalık planlayıcı ve ajanda uygulaması.
@@ -105,11 +120,12 @@ Fikirden yayınlama aşamasına kadar tamamını yönettiğim kişisel bir hafta
 
 ## 🛠️ Yetkinlikler & Teknolojiler
 
-* **Diller:** Python, C, C++, JavaScript, SQL
-* **Web & Backend:** Flask, HTML5, CSS3 (Tailwind), RESTful APIs
-* **AI & Veri Bilimi:** OpenAI API, Google Gemini API, Pandas, NumPy, Matplotlib, Scikit-learn
-* **Araçlar:** Git & GitHub, VSCode, AutoCAD, DIALux
-* **Sosyal Beceriler:** Problem Çözme, Güçlü İletişim, Takım Çalışması, Liderlik
+* **Programlama Dilleri:** Python, SQL, C/C++
+* **Enerji Piyasaları:** EPİAŞ gün öncesi ve gün içi operasyonları (KGÜP / GİP / GÖP), piyasa raporlaması
+* **Veri ve Mühendislik:** Veri analizi, IoT sistemleri, Modbus protokolü
+* **Yazılım ve Web:** Django, Flask, REST API, Git/GitHub, HTML/CSS, JavaScript
+* **Mühendislik Araçları:** AutoCAD, DIALux
+* **Sosyal Beceriler:** Kriz Koordinasyonu, Problem Çözme, Güçlü İletişim, Liderlik
 
 ---
 
