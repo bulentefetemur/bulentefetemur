@@ -61,7 +61,7 @@ A personal weekly planner and to-do list application I managed from the initial 
 
 ## 📫 Get in Touch
 
-* **CV (PDF):** [Download My CV](https://bulentefetemur.github.io/cv/myCV.pdf)
+* **CV (PDF):** [Download My CV](https://github.com/bulentefetemur/cv/blob/main/Bulent_Efe_Temur_Resume.pdf)
 * **LinkedIn:** [linkedin.com/in/bulentefetemur](https://www.linkedin.com/in/bulentefetemur/)
 * **Email:** bulentefetemur@gmail.com
 
@@ -131,6 +131,6 @@ Fikirden yayınlama aşamasına kadar tamamını yönettiğim kişisel bir hafta
 
 ## 📫 İletişim
 
-* **CV (PDF):** [CV'mi İndir](https://bulentefetemur.github.io/cv/myCV.pdf)
+* **CV (PDF):** [CV'mi İndir](https://github.com/bulentefetemur/cv/blob/main/Bulent_Efe_Temur_Resume.pdf)
 * **LinkedIn:** [linkedin.com/in/bulentefetemur](https://www.linkedin.com/in/bulentefetemur/)
 * **E-posta:** bulentefetemur@gmail.com
